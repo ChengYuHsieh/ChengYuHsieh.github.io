@@ -1,4 +1,6 @@
-I am a Ph.D. student in Computer Science & Engineering at the University of Washington, working with [Ranjay Krishna](http://ranjaykrishna.com/index.html) and [Alex Ratner](https://ajratner.github.io/).
+I am a Ph.D. student in Computer Science & Engineering at the University of Washington, working with [Ranjay Krishna](http://ranjaykrishna.com/index.html) and [Alex Ratner](https://ajratner.github.io/) on tackling challenges in today's large-scale machine learning environment.
+
+Previously, I recevied my B.S. and M.S. from National Taiwan University, where I was fortunate to work with [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/). Prior to joining UW, I spent wonderful time visiting Carnegie Mellon University and Univeristy of California, Los Angeles, where I worked with [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) and [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
 
 
 ## Research Interests
@@ -54,5 +56,12 @@ models to downstream applications.
 <br>IEEE Transactions on Games 2018.
 
 
-## Industrial Experience
+## Professional Experience
 Student Researcher, Google Cloud AI Research
+<br>Mentor: [Chen-Yu Lee](https://chl260.github.io/) and [Chun-Liang Li](https://chunliangli.github.io/)
+<br>*Summer 2022 - Present*
+
+Research Intern, RIKEN AIP
+<br>Mentor: [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)
+<br>*April 2018 - July 2018*
+
