@@ -9,7 +9,7 @@ efficiently curate large datasets, and (2) how to effectively align model behavi
 model side, I tackle (3) how to efficiently deploy large models, and (4) how to effectively adapt large
 models to downstream applications.
 
-## Prepints
+## Preprints
 - Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models. 2023.
 <br>**Cheng-Yu Hsieh**, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.
 
