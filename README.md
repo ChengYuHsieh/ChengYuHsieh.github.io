@@ -1,4 +1,4 @@
-I am a Ph.D. student in Computer Science & Engineering at the University of Washington, working with Ranjay Krishna and Alex Ratner.
+I am a Ph.D. student in Computer Science & Engineering at the University of Washington, working with [Ranjay Krishna](http://ranjaykrishna.com/index.html) and [Alex Ratner](https://ajratner.github.io/).
 
 
 ## Research Interests
@@ -10,46 +10,46 @@ model side, I tackle (3) how to efficiently deploy large models, and (4) how to 
 models to downstream applications.
 
 ## Preprints
-- Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models. 2023.
+- [Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675). 2023.
 <br>**Cheng-Yu Hsieh**, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.
 
-- SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality. 2023.
+- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610). 2023.
 <br>**Cheng-Yu Hsieh\***, Jieyu Zhang\*, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna.
 
-- A Survey on Programmatic Weak Supervision. 2022.
+- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433). 2022.
 <br>Jieyu Zhang\*, **Cheng-Yu Hsieh\***, Yue Yu\*, Chao Zhang, and Alexander Ratner.  
 
 
 ## Publications
-- Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes.
+- [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301).
 <br>**Cheng-Yu Hsieh**, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister.
 <br>ACL Findings 2023.
 
--  Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming.
+-  [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382).
 <br>**Cheng-Yu Hsieh**, Jieyu Zhang, and Alexander Ratner.
 <br>VLDB 2023.
 
-- Understanding Programmatic Weak Supervision via Source-aware Influence Function.
+- [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879).
 <br>Jieyu Zhang\*, Haonan Wang\*, **Cheng-Yu Hsieh**, and Alexander Ratner.
 <br>NeurIPS 2022.
 
-- Evaluations and Methods for Explanation through Robustness Analysis.
+- [Evaluations and Methods for Explanation through Robustness Analysis](https://arxiv.org/abs/2006.00442).
 <br>**Cheng-Yu Hsieh**, Chih-Kuan Yeh, Xuanqing Liu, Pradeep Ravikumar, Seungyeon Kim, Sanjiv Kumar, and Cho-Jui Hsieh. 
 <br>ICLR 2021.
 
-- On the (In)fidelity and Sensitivity of Explanations.
+- [On the (In)fidelity and Sensitivity of Explanations](https://arxiv.org/abs/1901.09392).
 <br> Chih-Kuan Yeh, **Cheng-Yu Hsieh**, Arun Sai Suggala, David Inouye, and Pradeep Ravikumar. 
 <br>NeurIPS 2019.
 
-- A Pseudo- Label Method for Coarse-to-Fine Multi-Label Learning with Limited Supervision.
+- [A Pseudo- Label Method for Coarse-to-Fine Multi-Label Learning with Limited Supervision](https://openreview.net/forum?id=rylVYjqHdN).
 <br>**Cheng-Yu Hsieh**, Miao Xu, Gang Niu, Hsuan-Tien Lin, and Masashi Sugiyama.
 <br>Learning from Limited Labeled Data @ ICLR 2019.
 
-- A Deep Model with Local Surrogate Loss for General Cost-sensitive Multi-label Learning.
+- [A Deep Model with Local Surrogate Loss for General Cost-sensitive Multi-label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11816).
 <br>**Cheng-Yu Hsieh**, Yi-An Lin, and Hsuan-Tien Lin.
 <br>AAAI 2018.
 
-- Automatic Bridge Bidding using Deep Reinforcement Learning.
+- [Automatic Bridge Bidding using Deep Reinforcement Learning](https://www.csie.ntu.edu.tw/~htlin/paper/doc/bridgedrl.pdf).
 <br>Chih-Kuan Yeh, **Cheng-Yu Hsieh**, and Hsuan-Tien Lin.
 <br>IEEE Transactions on Games 2018.
 
