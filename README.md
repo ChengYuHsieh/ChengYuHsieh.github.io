@@ -15,14 +15,15 @@ models to downstream applications.
 - [Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675). 2023.
 <br>**Cheng-Yu Hsieh**, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.
 
-- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610). 2023.
-<br>**Cheng-Yu Hsieh\***, Jieyu Zhang\*, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna.
-
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433). 2022.
 <br>Jieyu Zhang\*, **Cheng-Yu Hsieh\***, Yue Yu\*, Chao Zhang, and Alexander Ratner.  
 
 
 ## Publications
+- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610).
+<br>**Cheng-Yu Hsieh\***, Jieyu Zhang\*, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna.
+<br>NeurIPS 2023.
+
 - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301).
 <br>**Cheng-Yu Hsieh**, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister.
 <br>ACL Findings 2023.
