@@ -21,7 +21,7 @@ models to downstream applications.
 
 ## Publications
 - [Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization]().
-<br>Cheng-Yu Hsieh, Yung-Sung Chuang, Chun-Liang Li, Zifeng Wang, Long Le, Abhishek Kumar, James R. Glass, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna*, Tomas Pfister*.
+<br>**Cheng-Yu Hsieh**, Yung-Sung Chuang, Chun-Liang Li, Zifeng Wang, Long Le, Abhishek Kumar, James R. Glass, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna*, Tomas Pfister*.
 <br>ACL Findings 2024.
 
 - [Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity](https://arxiv.org/abs/2310.05175).
