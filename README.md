@@ -12,6 +12,9 @@ model side, I tackle (3) how to efficiently deploy large models, and (4) how to 
 models to downstream applications.
 
 ## Preprints
+- [The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better](https://arxiv.org/abs/2406.05184). 2024.
+<br>Scott Geng, **Cheng-Yu Hsieh**, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna  
+
 - [Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675). 2023.
 <br>**Cheng-Yu Hsieh**, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.
 
