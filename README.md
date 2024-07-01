@@ -26,7 +26,11 @@ models to downstream applications.
 
 
 ## Publications
-- [Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization]().
+- [The Hard Positive Truth about Vision-Language Compositionality]().
+<br>Amita Kamath, **Cheng-Yu Hsieh**, Kai-Wei Chang, Ranjay Krishna.
+<br>ECCV 2024.
+  
+- [Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization](https://arxiv.org/abs/2406.16008).
 <br>**Cheng-Yu Hsieh**, Yung-Sung Chuang, Chun-Liang Li, Zifeng Wang, Long Le, Abhishek Kumar, James R. Glass, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna\*, Tomas Pfister\*.
 <br>ACL Findings 2024.
 
