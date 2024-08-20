@@ -24,11 +24,6 @@ models to downstream applications.
 - [The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better](https://arxiv.org/abs/2406.05184). 2024.
 <br>Scott Geng, **Cheng-Yu Hsieh**, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna.
 
-- [Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675). 2023.
-<br>**Cheng-Yu Hsieh**, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.
-
-- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433). 2022.
-<br>Jieyu Zhang\*, **Cheng-Yu Hsieh\***, Yue Yu\*, Chao Zhang, and Alexander Ratner.  
 
 
 ## Publications
@@ -48,6 +43,10 @@ models to downstream applications.
 <br>**Cheng-Yu Hsieh\***, Jieyu Zhang\*, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna.
 <br>NeurIPS 2023.
 
+- [Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675).
+<br>**Cheng-Yu Hsieh**, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.
+<br> Technical Report. 2023.
+
 - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301).
 <br>**Cheng-Yu Hsieh**, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister.
 <br>ACL Findings 2023.
@@ -55,6 +54,10 @@ models to downstream applications.
 -  [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382).
 <br>**Cheng-Yu Hsieh**, Jieyu Zhang, and Alexander Ratner.
 <br>VLDB 2023.
+
+- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433).
+<br>Jieyu Zhang\*, **Cheng-Yu Hsieh\***, Yue Yu\*, Chao Zhang, and Alexander Ratner.
+<br> Technical Report. 2022.
 
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879).
 <br>Jieyu Zhang\*, Haonan Wang\*, **Cheng-Yu Hsieh**, and Alexander Ratner.
