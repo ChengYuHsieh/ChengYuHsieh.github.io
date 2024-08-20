@@ -12,6 +12,9 @@ model side, I tackle (3) how to efficiently deploy large models, and (4) how to 
 models to downstream applications.
 
 ## Preprints
+- [Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions](https://arxiv.org/abs/2407.06723). 2024.
+<br> Yu-Guan Hsieh\*, **Cheng-Yu Hsieh\***, Shih-Ying Yeh, Louis Béthune, Hadi Pour Ansari, Pavan Kumar Anasosalu Vasu, Chun-Liang Li, Ranjay Krishna, Oncel Tuzel, Marco Cuturi
+
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794). 2024.
 <br> DataComp-LM Team.
 
