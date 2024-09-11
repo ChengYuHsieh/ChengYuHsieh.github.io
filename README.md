@@ -85,6 +85,10 @@ models to downstream applications.
 
 
 ## Professional Experience
+Research Intern, Apple Machine Learning Research
+<br>Mentor: [Hadi Pouransari](https://www.linkedin.com/in/pouransari/) and [Pavan Kumar Anasosalu Vasu](https://scholar.google.com/citations?user=F3KISxoAAAAJ&hl=en)
+<br>*Spring 2024 - Present*
+
 Student Researcher, Google Cloud AI Research
 <br>Mentor: [Chen-Yu Lee](https://chl260.github.io/) and [Chun-Liang Li](https://chunliangli.github.io/)
 <br>*Summer 2022 - Present*
