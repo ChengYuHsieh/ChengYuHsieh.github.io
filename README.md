@@ -91,7 +91,7 @@ Research Intern, Apple Machine Learning Research
 
 Student Researcher, Google Cloud AI Research
 <br>Mentor: [Chen-Yu Lee](https://chl260.github.io/) and [Chun-Liang Li](https://chunliangli.github.io/)
-<br>*Summer 2022 - Present*
+<br>*Summer 2022 - Winter 2024*
 
 Research Intern, RIKEN AIP
 <br>Mentor: [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)
