@@ -15,9 +15,6 @@ models to downstream applications.
 - [Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions](https://arxiv.org/abs/2407.06723). 2024.
 <br> Yu-Guan Hsieh\*, **Cheng-Yu Hsieh\***, Shih-Ying Yeh, Louis Béthune, Hadi Pour Ansari, Pavan Kumar Anasosalu Vasu, Chun-Liang Li, Ranjay Krishna, Oncel Tuzel, Marco Cuturi
 
-- [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071). 2024.
-<br> Yung-Sung Chuang, Linlu Qiu, **Cheng-Yu Hsieh**, Ranjay Krishna, Yoon Kim, James Glass
-
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794). 2024.
 <br> DataComp-LM Team.
 
@@ -27,6 +24,14 @@ models to downstream applications.
 
 
 ## Publications
+- [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071).
+<br> Yung-Sung Chuang, Linlu Qiu, **Cheng-Yu Hsieh**, Ranjay Krishna, Yoon Kim, James Glass
+<br>EMNLP 2024.
+
+- [Is C4 Dataset Enough for Pruning? An Investigation of Calibration Data for LLM Pruning]().
+<br> Abhinav Bandari, Lu Yin, **Cheng-Yu Hsieh**, Ajay Jaiswal, Tianlong Chen, Li Shen, Ranjay Krishna, Shiwei Liu
+<br>EMNLP 2024.
+
 - [The Hard Positive Truth about Vision-Language Compositionality]().
 <br>Amita Kamath, **Cheng-Yu Hsieh**, Kai-Wei Chang, Ranjay Krishna.
 <br>ECCV 2024.
