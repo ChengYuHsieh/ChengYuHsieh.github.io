@@ -15,15 +15,16 @@ models to downstream applications.
 - [Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions](https://arxiv.org/abs/2407.06723). 2024.
 <br> Yu-Guan Hsieh\*, **Cheng-Yu Hsieh\***, Shih-Ying Yeh, Louis Béthune, Hadi Pour Ansari, Pavan Kumar Anasosalu Vasu, Chun-Liang Li, Ranjay Krishna, Oncel Tuzel, Marco Cuturi
 
-- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794). 2024.
-<br> DataComp-LM Team.
-
-- [The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better](https://arxiv.org/abs/2406.05184). 2024.
-<br>Scott Geng, **Cheng-Yu Hsieh**, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna.
-
-
 
 ## Publications
+- [The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better](https://arxiv.org/abs/2406.05184).
+<br>Scott Geng, **Cheng-Yu Hsieh**, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna.
+<br>NeurIPS 2024.
+
+- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794).
+<br> DataComp-LM Team.
+<br>NeurIPS 2024.
+
 - [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071).
 <br> Yung-Sung Chuang, Linlu Qiu, **Cheng-Yu Hsieh**, Ranjay Krishna, Yoon Kim, James Glass
 <br>EMNLP 2024.
