@@ -18,6 +18,22 @@ models to downstream applications.
 
 
 ## Publications
+- [RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations](https://arxiv.org/abs/2502.03629).
+<br>Peter Sushko, Ayana Bharadwaj, Zhi Yang Lim, Vasily Ilin, Ben Caffee, Dongping Chen, Mohammadreza Salehi, **Cheng-Yu Hsieh**, Ranjay Krishna
+<br>CVPR 2025.
+
+- [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548).
+<br>Mahtab Bigverdi, Zelun Luo, **Cheng-Yu Hsieh**, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna
+<br>CVPR 2025.
+
+- [Synthetic Visual Genome]().
+<br>Jae Sung Park, Zixian Ma, Linjie Li, Chenhao Zheng, **Cheng-Yu Hsieh**, Ximing Lu, Khyathi Chandu, Quan Kong, Norimasa Kobori, Ali Farhadi, Yejin Choi, Ranjay Krishna.
+<br>CVPR 2025.
+
+- [NVILA: Efficient Frontier Visual Language Models](https://arxiv.org/abs/2412.04468).
+<br>NVILA Team.
+<br>CVPR 2025.
+
 - [The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better](https://arxiv.org/abs/2406.05184).
 <br>Scott Geng, **Cheng-Yu Hsieh**, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, Ranjay Krishna.
 <br>NeurIPS 2024.
