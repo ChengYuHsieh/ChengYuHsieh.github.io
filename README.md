@@ -2,7 +2,6 @@ I am a final-year Ph.D. student in Computer Science & Engineering at the Univers
 
 Previously, I recevied my B.S. and M.S. from National Taiwan University, where I was fortunate to work with [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/). Prior to joining UW, I spent wonderful time visiting Carnegie Mellon University and Univeristy of California, Los Angeles, where I worked with [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) and [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
 
-**I am on the job market this year. Please feel free to reach out to discuss potential opportunities!**
 
 ## Research Interests
 My research goal is to democratize AI development by making both data and model scaling more
